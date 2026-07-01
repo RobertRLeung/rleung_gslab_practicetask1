@@ -1,5 +1,6 @@
 \documentclass{beamer}
 \usetheme{Madrid}
+\usepackage{booktabs}
 \title{Example Slides}
 \author{Gentzkow Lab Template}
 \date{\today}
@@ -15,5 +16,18 @@
     \item Analysis workflow integrated
     \item Reproducible project structure
   \end{itemize}
+\end{frame}
+
+\begin{frame}{City Fuel Economy}
+  \begin{figure}
+    \centering
+    \includegraphics[width=0.8\textwidth]{../input/figure_city.jpg}
+    \caption{City fuel economy versus engine displacement on a log scale.}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Clustered Standard Errors}
+  \scriptsize
+  \input{../input/table_clustered_reg.tex}
 \end{frame}
 \end{document}
