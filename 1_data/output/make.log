@@ -1,4 +1,9 @@
-make.sh started at 2024-08-12 17:38:54
-Executing: zsh my_shell_script.sh
+
+Script my_shell_script.sh in zsh started at 2026-07-01 15:02:31
 Hello world!
-make.sh finished at 2024-08-12 17:38:54
+Script my_shell_script.sh finished successfully at 2026-07-01 15:02:31
+
+Script wrangle_data.py in /Users/twomanyb/rleung_gslab_practicetask1/.venv/bin/python started at 2026-07-01 15:02:31
+Script wrangle_data.py finished successfully at 2026-07-01 15:02:31
+
+make.sh finished at 2026-07-01 15:02:31

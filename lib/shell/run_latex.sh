@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export PATH="/opt/homebrew/bin:/opt/homebrew/sbin:/Library/TeX/texbin:${PATH}"
+
 unset run_latex
 unset cleanup
 run_latex() {
