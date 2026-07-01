@@ -37,7 +37,8 @@ def hwy_figure(data):
 def city_figure(data):
   plt.scatter(data['displ'], data['cty'], c=data['year'])
   plt.xlabel("Engine displacement (L)")
-  plt.ylabel("City fuel economy (mpg)")
+  plt.ylabel("City fuel economy (mpg, log scale)")
+  plt.yscale("log")
   plt.savefig("../output/figure_city.jpg")
 
 # Execute

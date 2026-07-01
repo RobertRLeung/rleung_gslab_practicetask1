@@ -1,9 +1,9 @@
 
-Script my_shell_script.sh in zsh started at 2026-07-01 15:25:07
+Script my_shell_script.sh in zsh started at 2026-07-01 15:39:59
 Hello world!
-Script my_shell_script.sh finished successfully at 2026-07-01 15:25:07
+Script my_shell_script.sh finished successfully at 2026-07-01 15:39:59
 
-Script my_project.tex in latexmk -pdf -bibtex started at 2026-07-01 15:25:07
+Script my_project.tex in latexmk -pdf -bibtex started at 2026-07-01 15:39:59
 Rc files read (in order):
   NONE
 Latexmk: This is Latexmk, John Collins, 9 March 2026. Version 4.88.
@@ -153,7 +153,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 </usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loca
 l/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
 2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on my_project.pdf (6 pages, 120038 bytes).
+Output written on my_project.pdf (6 pages, 120829 bytes).
 Transcript written on my_project.log.
 Latexmk: Getting log file 'my_project.log'
 Latexmk: Examining 'my_project.fls'
@@ -331,7 +331,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 </usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loca
 l/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
 2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on my_project.pdf (7 pages, 125482 bytes).
+Output written on my_project.pdf (7 pages, 126274 bytes).
 Transcript written on my_project.log.
 Latexmk: Getting log file 'my_project.log'
 Latexmk: Examining 'my_project.fls'
@@ -482,7 +482,7 @@ dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-d
 ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on my_project.pdf (7 pages, 125129 bytes).
+Output written on my_project.pdf (7 pages, 125929 bytes).
 Transcript written on my_project.log.
 Latexmk: Getting log file 'my_project.log'
 Latexmk: Examining 'my_project.fls'
@@ -496,9 +496,9 @@ Latexmk: Found bibliography file(s):
   ./my_project.bib
 Latexmk: All targets (my_project.pdf) are up-to-date
 
-Script my_project.tex finished successfully at 2026-07-01 15:25:09
+Script my_project.tex finished successfully at 2026-07-01 15:40:01
 
 The following files were created in my_project.tex:
 my_project.pdf 
 
-make.sh finished at 2026-07-01 15:25:09
+make.sh finished at 2026-07-01 15:40:01

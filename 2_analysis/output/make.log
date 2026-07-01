@@ -1,16 +1,16 @@
 
-Script my_shell_script.sh in zsh started at 2026-07-01 15:07:05
+Script my_shell_script.sh in zsh started at 2026-07-01 15:39:57
 Hello world!
-Script my_shell_script.sh finished successfully at 2026-07-01 15:07:05
+Script my_shell_script.sh finished successfully at 2026-07-01 15:39:57
 
-Script analyze_data.py in /Users/twomanyb/rleung_gslab_practicetask1/.venv/bin/python started at 2026-07-01 15:07:05
+Script analyze_data.py in /Users/twomanyb/rleung_gslab_practicetask1/.venv/bin/python started at 2026-07-01 15:39:57
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                  displ   R-squared:                       0.638
 Model:                            OLS   Adj. R-squared:                  0.636
 Method:                 Least Squares   F-statistic:                     408.2
 Date:                Wed, 01 Jul 2026   Prob (F-statistic):           4.74e-53
-Time:                        15:07:06   Log-Likelihood:                -272.70
+Time:                        15:39:58   Log-Likelihood:                -272.70
 No. Observations:                 234   AIC:                             549.4
 Df Residuals:                     232   BIC:                             556.3
 Df Model:                           1                                         
@@ -35,7 +35,7 @@ Dep. Variable:                  displ   R-squared:                       0.587
 Model:                            OLS   Adj. R-squared:                  0.585
 Method:                 Least Squares   F-statistic:                     329.5
 Date:                Wed, 01 Jul 2026   Prob (F-statistic):           2.04e-46
-Time:                        15:07:06   Log-Likelihood:                -288.07
+Time:                        15:39:58   Log-Likelihood:                -288.07
 No. Observations:                 234   AIC:                             580.1
 Df Residuals:                     232   BIC:                             587.0
 Df Model:                           1                                         
@@ -60,7 +60,7 @@ Dep. Variable:                  displ   R-squared:                       0.638
 Model:                            OLS   Adj. R-squared:                  0.635
 Method:                 Least Squares   F-statistic:                     203.3
 Date:                Wed, 01 Jul 2026   Prob (F-statistic):           1.17e-51
-Time:                        15:07:06   Log-Likelihood:                -272.68
+Time:                        15:39:58   Log-Likelihood:                -272.68
 No. Observations:                 234   AIC:                             551.4
 Df Residuals:                     231   BIC:                             561.7
 Df Model:                           2                                         
@@ -80,9 +80,9 @@ Kurtosis:                       4.879   Cond. No.                         123.
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-Script analyze_data.py finished successfully at 2026-07-01 15:07:06
+Script analyze_data.py finished successfully at 2026-07-01 15:39:58
 
 The following files were created in analyze_data.py:
 figure_hwy.jpg figure_city.jpg table_reg.tex 
 
-make.sh finished at 2026-07-01 15:07:06
+make.sh finished at 2026-07-01 15:39:58
