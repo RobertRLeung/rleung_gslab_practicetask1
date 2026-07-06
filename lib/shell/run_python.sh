@@ -11,8 +11,13 @@ run_python () {
 
     # set python command if unset
     if [ -z "$pythonCmd" ]; then
-        echo -e "\nNo python command set. Using default: python3"
-        pythonCmd="python3"
+        repo_root=$(git rev-parse --show-toplevel 2>/dev/null || true)
+        if [ -n "$repo_root" ] && [ -x "${repo_root}/.venv/bin/python" ]; then
+            pythonCmd="${repo_root}/.venv/bin/python"
+        else
+            echo -e "\nNo python command set. Using default: python3"
+            pythonCmd="python3"
+        fi
     fi
 
     # check if the command exists before running, log error if does not
